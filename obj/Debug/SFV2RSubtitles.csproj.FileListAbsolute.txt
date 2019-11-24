@@ -1,0 +1,7 @@
+C:\Users\jenek\source\repos\SFV2RSubtitles\bin\Debug\SFV2RSubtitles.exe
+C:\Users\jenek\source\repos\SFV2RSubtitles\bin\Debug\SFV2RSubtitles.pdb
+C:\Users\jenek\source\repos\SFV2RSubtitles\obj\Debug\SFV2RSubtitles.csprojAssemblyReference.cache
+C:\Users\jenek\source\repos\SFV2RSubtitles\obj\Debug\SFV2RSubtitles.Properties.Resources.resources
+C:\Users\jenek\source\repos\SFV2RSubtitles\obj\Debug\SFV2RSubtitles.csproj.GenerateResource.cache
+C:\Users\jenek\source\repos\SFV2RSubtitles\obj\Debug\SFV2RSubtitles.exe
+C:\Users\jenek\source\repos\SFV2RSubtitles\obj\Debug\SFV2RSubtitles.pdb

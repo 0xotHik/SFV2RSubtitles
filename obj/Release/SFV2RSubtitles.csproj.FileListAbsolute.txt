@@ -1,0 +1,7 @@
+C:\Users\jenek\source\repos\SFV2RSubtitles\bin\Release\SFV2RSubtitles.exe.config
+C:\Users\jenek\source\repos\SFV2RSubtitles\bin\Release\SFV2RSubtitles.exe
+C:\Users\jenek\source\repos\SFV2RSubtitles\bin\Release\SFV2RSubtitles.pdb
+C:\Users\jenek\source\repos\SFV2RSubtitles\obj\Release\SFV2RSubtitles.Properties.Resources.resources
+C:\Users\jenek\source\repos\SFV2RSubtitles\obj\Release\SFV2RSubtitles.csproj.GenerateResource.cache
+C:\Users\jenek\source\repos\SFV2RSubtitles\obj\Release\SFV2RSubtitles.exe
+C:\Users\jenek\source\repos\SFV2RSubtitles\obj\Release\SFV2RSubtitles.pdb
